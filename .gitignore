@@ -1,0 +1,8 @@
+Include
+Lib
+Scripts
+cmd.lnk
+git-bash.lnk
+setenv.bat
+pip-selfcheck.json
+pyvenv.cfg
